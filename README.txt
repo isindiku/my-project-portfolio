@@ -1,6 +1,6 @@
-This is a portfolio containing my data analysis portfolio. It is made up of Excel dahboards, Power BI and SQL
+This portfolio contains my data analysis projects. It is made up of Excel, Power BI and SQL.
 
-Power BI projects:
+POWER BI PROJECTS:
 Bitcoin-Historical-Data
 Cholera-Outbreak
 Covid-19-Data
